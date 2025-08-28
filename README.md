@@ -1,7 +1,6 @@
 <div align="center">
-# Vessel Segmentation Pipeline
+#  Vessel Segmentation Pipeline
 </div>
-
 <div align="center">
 
 ![Pipeline Demo](https://img.shields.io/badge/Status-Active-brightgreen)
