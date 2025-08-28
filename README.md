@@ -1,4 +1,4 @@
-# 🩸 Vessel Segmentation Pipeline
+# Vessel Segmentation Pipeline
 
 <div align="center">
 
