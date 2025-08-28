@@ -1,3 +1,5 @@
+<div align="center">
+    
 # Vessel Segmentation Pipeline
 
 <div align="center">
