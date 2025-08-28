@@ -1,6 +1,6 @@
-
+<div align="center">
 # Vessel Segmentation Pipeline
-
+</div>
 
 <div align="center">
 
