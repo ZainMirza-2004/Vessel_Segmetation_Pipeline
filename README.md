@@ -9,12 +9,11 @@
 
 [📖 Documentation](#documentation) • [🚀 Quick Start](#quick-start) • [🔬 Features](#features) • [📊 Examples](#examples) • [🤝 Contributing](#contributing)
 
----
 
 *Built by [Muhammad Mirza](https://github.com/ZainMirza-2004) | Extending the original [vessel_metrics](vessel_metrics) framework*
 
 </div>
-
+---
 ## 🌟 Overview
 
 The Vessel Segmentation Pipeline revolutionizes vascular analysis in tumor microenvironments by providing a comprehensive, automated workflow that transforms raw microscopy data into quantitative insights about vessel architecture, morphology, and function.
