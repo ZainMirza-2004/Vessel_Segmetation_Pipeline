@@ -145,8 +145,8 @@ viz, diameters = vm.whole_anatomy_diameter(vessel_preproc, vessel_seg, edges)
 | `img.png` | 🖼️ Original image/z-projection | Visual reference |
 | `label.png` | 🎯 Vessel segmentation mask | Validation & analysis |
 | `vessel_labels.png` | 🕸️ Skeleton + segment overlay | Quality control |
-| `vessel_diameters.txt` | 📏 Per-segment diameter data | Quantitative analysis |
-| `vessel_density.txt` | 📊 Regional density metrics | Statistical studies |
+| `vessel_diameters.csv` | 📏 Per-segment diameter data | Quantitative analysis |
+| `vessel_density.csv` | 📊 Regional density metrics | Statistical studies |
 
 ---
 
@@ -230,6 +230,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **⭐ Star this repository if it helps your research!**
 
-*Advancing vascular analysis in tumor microenvironments, one vessel at a time.*
 
 </div>
