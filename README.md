@@ -196,20 +196,6 @@ vm.whole_anatomy_diameter(
 )
 ```
 
----
-
-## 🏆 Improvements Over Original
-
-| Feature | Original vessel_metrics | Enhanced Pipeline |
-|---------|------------------------|-------------------|
-| **Processing Speed** | Standard | ⚡ **3x faster** for large images |
-| **Tumor Specificity** | General purpose | 🎯 **Optimized** for tumor microenvironments |
-| **Diameter Analysis** | Manual setup required | 🤖 **Fully automated** |
-| **Error Handling** | Basic | 🛡️ **Advanced** artifact removal |
-| **Multi-channel** | Limited | 🔬 **Full integration** support |
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Here's how you can help:
